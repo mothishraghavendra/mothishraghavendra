@@ -1,87 +1,85 @@
-<!-- GitHub Profile README for K Mothish Ragavendra -->
+<!--
+    Hey there, I'm Daria Stanilevici!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+-->
 
-<h1 align="center">Hi 👋, I'm K Mothish Ragavendra</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | Data Enthusiast | Cybersecurity Learner</h3>
-
-<p align="center">
-  <a href="mailto:mothish.k.raghavendra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mothish-raghavendra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 👨‍🎓 Education
-
-- **B.Tech Computer Science and Engineering**  
-  Jawaharlal Nehru Technological University Anantapur  
-  _Aug 2024 – May 2027_ | GPA: 8.23/10
-
-- **Diploma in Computer Engineering**  
-  Sree Vidyanikethan Engineering College  
-  _July 2021 – June 2024_ | Percentage: 92.5
-
----
-
-## 🏆 Certifications & Experience
-
-- **Deloitte Data Analytics Virtual Internship**  
-  -> Data wrangling, visualization (Excel, Tableau), business problem-solving
-
-- **HackerRank SQL (Intermediate)**  
-  -> Complex queries, joins, aggregations, subqueries
-
-- **Zoho Schools of Technology (Selected Candidate)**  
-  -> Cleared competitive assessments for software development (not joined)
-
----
-
-## 💻 Skills & Technologies
-
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Web:** HTML, CSS, JavaScript, jQuery, Node.js, MySQL
-- **Data:** SQL, DBMS, PL/SQL, Excel, Tableau, Python (Pandas, NumPy)
-- **Cybersecurity:** Kali Linux, John the Ripper, Crunch, Nmap, Netcat
-
----
-
-## 🚀 Projects
-
-### [Paryatan – Tourism Website](#)
-_Web Platform for Andhra Pradesh & Telangana Tourism_
-- Tourist destinations, entry fees, timings, Google Maps integration
-- **Tech:** HTML, CSS, JS, jQuery
-
-### [EduCycle – Student Supply Exchange](#)
-_Online platform for students to exchange/sell stationery and textbooks_
-- Item listings, user interactions, backend management
-- **Tech:** HTML, CSS, JS, Node.js, MySQL
-
-### [Trex – Password Cracking Tool (Ethical)](#)
-_Terminal tool for password recovery (Brute-force & Dictionary attacks)_
-- Uses John the Ripper, Crunch on Kali Linux
-- **Tech:** C, John the Ripper, Crunch
-
----
-
-## 📊 GitHub Stats
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mothishraghavendra&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mothishraghavendra&theme=radical" height="170" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3000&pause=700&color=D9BED1&center=true&vCenter=true&repeat=true&width=500&lines=Hello%2C+it%27s+Mothish+Raghavendra;Computer+Science+Engineer"
+      alt="Typing SVG showing Hello, it's Mothish Raghavendra"
+    />
+  </a>
 </p>
 
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-
----
-
-## 🌱 Let’s Connect!
-
-- 📧 mothish.k.raghavendra@gmail.com
-- 📱 +91 8332082755
-- 🏠 Tirupati
-
----
-
-<div align="center">
-  <em>“Building impactful software solutions and sharing my journey on GitHub!”</em>
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
+
+### Professional Summary 
+I’m a curious and dedicated Computer Science Engineering student who enjoys building practical software and continuously learning new technologies. My work so far includes full-stack web development, basic data analytics, and exploring areas like machine learning and cybersecurity.
+
+I’ve built projects using Python, JavaScript, Java, and modern web tools, and I was grateful to be selected as a Finalist at the Amaravathi Quantum Valley Hackathon for the IBM Qiskit Public Jobs Tracker. I enjoy solving real problems, writing clean and understandable code, and improving step by step with each project.
+
+Currently, I’m focused on strengthening my skills in full-stack development, AI/ML, and ethical hacking, while staying open to collaboration, feedback, and new opportunities to learn.
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,cpp,cs,html,css,php,notion,linux,kali,anaconda,django,flask)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,docker,vim)](https://skillicons.dev)
+
+
+
+<!--
+Check out my latest post 👇  
+
+<a href="https://medium.com/@daria-stanilevici" target="_blank">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
+</a>
+
+
+[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
+
+
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/mothishraghavendra/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://www.credly.com/users/mothish-raghavendra/edit#credly">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1jQVYpYVqmqskhfavYO9rEQuJBSCqJLuK/view?usp=drive_link" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
