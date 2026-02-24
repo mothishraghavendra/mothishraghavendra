@@ -22,10 +22,6 @@
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-
 ### Professional Summary 
 I’m a curious and dedicated Computer Science Engineering student who enjoys building practical software and continuously learning new technologies. My work so far includes full-stack web development, basic data analytics, and exploring areas like machine learning and cybersecurity.
 
